@@ -7,3 +7,7 @@ Siempre deberemos tener un archivo README.md para comenzar.
 ## Subtítulo!
 
 Seguímos probando y jugando con este archivo.
+
+### Actualizaciones
+
+Esto lo hice desde GitHub, vamos a ver si se actualiza en mi archivo local.
